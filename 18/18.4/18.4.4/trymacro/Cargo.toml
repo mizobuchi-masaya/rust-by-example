@@ -1,0 +1,9 @@
+[package]
+name = "trymacro"
+version = "0.1.0"
+author = ["mark"]
+edition = "2015"
+
+[[bin]]
+name = "introducing_question_mark2"
+path = "src/introducing_question_mark2.rs"
