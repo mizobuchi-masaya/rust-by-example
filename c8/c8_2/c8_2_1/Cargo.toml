@@ -1,0 +1,12 @@
+[package]
+name = "c8_2_1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "nesting_and_labels"
+path = "src/nesting_and_labels.rs"

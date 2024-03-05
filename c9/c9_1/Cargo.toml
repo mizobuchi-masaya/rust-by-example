@@ -1,0 +1,12 @@
+[package]
+name = "c9_1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "associated_functions_and_methods"
+path = "src/associated_functions_and_methods.rs"

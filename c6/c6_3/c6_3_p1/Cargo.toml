@@ -1,0 +1,12 @@
+[package]
+name = "c6_3_p1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "converting_to_string"
+path = "src/converting_to_string.rs"
