@@ -1,0 +1,12 @@
+[package]
+name = "c16_2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "retruning_traits_with_dyn"
+path = "src/retruning_traits_with_dyn.rs"
