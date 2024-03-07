@@ -1,0 +1,12 @@
+[package]
+name = "c18_3_4_p2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "unpacking_options_and_defaults"
+path = "src/unpacking_options_and_defaults.rs"

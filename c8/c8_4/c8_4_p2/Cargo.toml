@@ -1,0 +1,13 @@
+[package]
+name = "c8_4_p2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "for_and_range"
+path = "src/for_and_range.rs"

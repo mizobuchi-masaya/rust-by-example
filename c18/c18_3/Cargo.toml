@@ -1,0 +1,12 @@
+[package]
+name = "c18_3"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "option_and_unwrap"
+path = "src/option_and_unwrap.rs"

@@ -1,0 +1,12 @@
+[package]
+name = "c9_2_6_2_p1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "searching_through_iterators"
+path = "src/searching_through_iterators.rs"

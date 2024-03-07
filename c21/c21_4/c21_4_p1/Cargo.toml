@@ -1,0 +1,8 @@
+[package]
+name = "adder"
+version = "0.1.0"
+author = ["mark"]
+edition = "2015"
+
+[dev-dependencies]
+pretty_assertions = "1"
