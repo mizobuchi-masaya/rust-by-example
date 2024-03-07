@@ -1,0 +1,9 @@
+[package]
+name = "trymacro"
+version = "0.1.0"
+author = ["mark"]
+edition = "2015"
+
+[[bin]]
+name = "the_try_macro"
+path = "src/the_try_macro.ps"

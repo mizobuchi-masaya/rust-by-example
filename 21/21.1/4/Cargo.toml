@@ -1,9 +1,0 @@
-[package]
-name = "UnitTesting"
-version = "0.1.0"
-author = ["mark"]
-edition = "2015"
-
-[[bin]]
-name = "unit_testing"
-path = "unit_testing.rs"
