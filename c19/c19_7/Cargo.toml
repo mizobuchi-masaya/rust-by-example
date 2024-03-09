@@ -1,0 +1,13 @@
+workspace = { members = ["c19_7_1", "c19_7_2"] }
+[package]
+name = "c19_7"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "hashmap"
+path = "src/hashmap.rs"
